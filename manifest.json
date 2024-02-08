@@ -1,0 +1,6 @@
+{
+    "version": "0.0.1",
+    "name": "my-vue-plugin",
+    "description": "A Vue.js plugin for Kulp",
+    "framework": "vue"
+}
