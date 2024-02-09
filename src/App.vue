@@ -1,6 +1,4 @@
+<!-- DO NOT TOUCH THIS FILE -->
 <template>
-  <HelloKulp />
+  <RouterView />
 </template>
-<script setup lang="ts">
-import HelloKulp from './components/HelloKulp.vue';
-</script>

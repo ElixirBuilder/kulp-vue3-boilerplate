@@ -1,6 +1,14 @@
 {
     "version": "0.0.1",
+    "icon": "icon.png",
     "name": "my-vue-plugin",
     "description": "A Vue.js plugin for Kulp",
-    "framework": "vue"
+    "framework": "vue",
+    "components": [
+        {
+            "name": "hello-kulp",
+            "description": "A Vue.js component for saying 'Hello' to Kulp",
+            "url": "/"
+        }
+    ]
 }
