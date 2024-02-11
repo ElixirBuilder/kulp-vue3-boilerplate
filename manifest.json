@@ -8,7 +8,7 @@
         {
             "name": "hello-kulp",
             "description": "A Vue.js component for saying 'Hello' to Kulp",
-            "url": "/"
+            "path": "/"
         }
     ]
 }
