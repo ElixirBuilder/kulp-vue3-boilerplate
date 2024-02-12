@@ -2,6 +2,7 @@
     "version": "0.0.1",
     "icon": "icon.png",
     "name": "my-vue-plugin",
+    "access": "public",
     "description": "A Vue.js plugin for Kulp",
     "framework": "vue",
     "components": [
